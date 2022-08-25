@@ -1,0 +1,49 @@
+{
+  "trains": [
+    {
+      "id": 0,
+      "departure": "00:23",
+      "route": "Павлодар — Кызылорда",
+      "trainTag": "117ц",
+      "arrivalTime": "08:55 - Кызылорда",
+      "travelTime": "1 д. 8 ч. 32 мин.",
+      "periodicity": "23.08, 25.08, 27.08"
+    },
+    {
+      "id": 1,
+      "departure": "01:26",
+      "route": "Пресногор — Павлодар",
+      "trainTag": "139ц",
+      "arrivalTime": "09:05 - Павлодар",
+      "travelTime": "7 ч. 39 мин.",
+      "periodicity": "Даты: 23.08, 25.08, 27.08"
+    },
+    {
+      "id": 2,
+      "departure": "04:15",
+      "route": "Костанай — Караганд П",
+      "trainTag": "328т",
+      "arrivalTime": "08:49 - Караганд П",
+      "travelTime": "4 ч. 34 мин",
+      "periodicity": "23.08, 25.08, 27.08"
+    },
+    {
+      "id": 3,
+      "departure": "04:15",
+      "route": "Нур-Султан — Семей",
+      "trainTag": "117ц",
+      "arrivalTime": "12:20 - Семей",
+      "travelTime": "1 д. 6 ч. 45 мин.",
+      "periodicity": "23.08, 25.08, 27.08"
+    },
+    {
+      "id": 341,
+      "departure": "Тестовая запись(update)",
+      "route": "Тестовая запись",
+      "trainTag": "Тестовая запись",
+      "arrivalTime": "Тестовая запись",
+      "travelTime": "Тестовая запись",
+      "periodicity": "Тестовая запись"
+    }
+  ]
+}
